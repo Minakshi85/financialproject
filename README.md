@@ -1,2 +1,4 @@
 # financialproject
-learning CI/CD
+
+learning CI/CD. This will be interesting. VsCode
+
